@@ -15,7 +15,6 @@ Clean, typed, and battle-tested solutions to array, string, number & algorithm p
 
 ![Problems](https://img.shields.io/badge/Problems-15%2F15%20✓-2ea44f?style=for-the-badge)
 ![Type Safe](https://img.shields.io/badge/tsc%20--noEmit-passing-2ea44f?style=for-the-badge)
-![Score](https://img.shields.io/badge/Score-150-blueviolet?style=for-the-badge)
 
 </div>
 
@@ -23,7 +22,7 @@ Clean, typed, and battle-tested solutions to array, string, number & algorithm p
 
 ## 📖 Overview
 
-> **Topic:** TypeScript Programming &nbsp;•&nbsp; **Batch:** 18 &nbsp;•&nbsp; **Total Score:** 150 &nbsp;•&nbsp; **Due:** Jul 26, 2026
+> **Topic:** TypeScript Programming &nbsp;•&nbsp; **Batch:** 18 &nbsp;•&nbsp; **Due:** Jul 26, 2026
 
 Fifteen self-contained TypeScript programs, one per file in [`src/`](src/). Every solution is
 **strictly typed** (`"strict": true`), passes `tsc --noEmit`, and prints output that matches the
